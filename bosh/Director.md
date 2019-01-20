@@ -2,7 +2,7 @@
 
 *BOSH 환경을 구성하기 전에 설치, 사용 및 구성할 주요 구성요소에 대한 정보*
 
-![bosh](https://bosh.io/docs/images/bosh-architecture.png)
+![bosh](https://bosh.io/docs/images/bosh-architecture.png) *BOSH 아키텍처*
 
 ## 1. Command Line Interface (CLI)
 
