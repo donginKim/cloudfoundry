@@ -166,4 +166,4 @@ $ bosh delete-env ~/workspace/bosh-deployment/bosh.yml \
 
 
 
-### [- Director에 대하여](Director.md)
+### [BOSH Components 에 대하여....](Director.md)
