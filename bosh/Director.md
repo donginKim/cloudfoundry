@@ -18,11 +18,11 @@ Director는 BOSH의 핵심 구성요소이다. Director는 VM 생성 및 배포 
 
 - ### Task Queue
 
-  Director와 Workers가 작업을 관리하는 데에는 비동기 식 대기열 방식을 사용한다. 태스크 대기열이 데이터 베이스에 저장되어 있다.
+  Director와 Workers가 작업을 관리하는 데에는 비동기 식 대기열 방식을 사용한다. Task Queue는 데이터 베이스에 저장되어 있다.
 
 - ### Workers
 
-  Task Queue에서 작업을 가져와 작업을 하는 역할을 하고 있다.
+  Task Queue에 등록되어 있는 작업을 실행한다.
 
 - ### CPI
 
