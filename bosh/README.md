@@ -164,6 +164,6 @@ $ bosh delete-env ~/workspace/bosh-deployment/bosh.yml \
 
 
 
+## 4) 기타
 
-
-### [BOSH Components 에 대하여....](Director.md)
+### 1) [BOSH Components 에 대하여....](Director.md)
