@@ -162,3 +162,8 @@ $ bosh delete-env ~/workspace/bosh-deployment/bosh.yml \
 
 해당 명령을 통하여  삭제가 가능하다.
 
+
+
+
+
+### [- Director에 대하여](Director.md)
