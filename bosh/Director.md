@@ -28,7 +28,7 @@ Director는 BOSH의 핵심 구성요소이다. Director는 VM 생성 및 배포 
 
 - ### CPI
 
-  CPI는 (Cloud Provider Interface)는 Director가 IaaS와 통신하며, stemcells , VM 및 disks를 생성 및 관리하는데 사용되는 API. CPI는 나머지 BOSH와의 인프라 차이를 추상화 한다.
+  CPI는 (Cloud Provider Interface)는 Director가 IaaS와 통신하며, stemcells , VM 및 disks를 생성 및 관리하는데 사용되는 API.
 
 
 
